@@ -1,7 +1,7 @@
 # Escalonadores
 Exercício proposto na aula de SO para simular algoritmos de escalonamento
 
-#Algoritmos:
+# Algoritmos:
 
 First Come First Served
 
